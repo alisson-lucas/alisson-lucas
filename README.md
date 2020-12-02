@@ -9,7 +9,7 @@ Gosto de tudo relacionado a tecnologia, sonho em seguir carreira nessa área que
 ## ⚡ Tech Stack
 
 Aqui estão algumas coisas que aprendi ao longo da minha jornada de aprendizado.
-Here are a few things I've picked up along my learning journey.
+
 
 * 🗣 JavasCript | PHP | Node | SQL | 
 * 🖇️ React | React Native | Vue
