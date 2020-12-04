@@ -22,7 +22,7 @@ Aqui estão algumas coisas que aprendi ao longo da minha jornada de aprendizado.
 - LinkedIn - [Alisson Oliveira](https://in.linkedin.com/in/alisson-oliveira-a8b66a175)
 - Instagram - [@Alissonluucas](https://www.instagram.com/alissonluucas)
 
- ou então pelo meu e-mail [mail](lucasoliveira.alisson@gmail.com) lucasoliveira.alisson@gmail.com .
+ ou então pelo meu e-mail lucasoliveira.alisson@gmail.com .
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=alisson-lucas&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Alisson's github stats" />
