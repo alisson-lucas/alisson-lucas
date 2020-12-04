@@ -24,7 +24,14 @@ Aqui estão algumas coisas que aprendi ao longo da minha jornada de aprendizado.
 
  ou então pelo meu e-mail [mail](lucasoliveira.alisson@gmail.com) .
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=alisson-lucas&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Alisson's github stats" />
+</a>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisson-lucas&layout=compact&theme=material-palenight" />
+</a>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=alisson-lucas/alisson-lucas)
 
