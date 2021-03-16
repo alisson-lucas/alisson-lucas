@@ -3,8 +3,6 @@
 
 Gosto de tudo relacionado a tecnologia, sonho em seguir carreira nessa área que me motiva cada dia mais a aprender coisas novas.
 
-#### 🔭 Atualmente estou em busca de novas oportunidades de trabalho.
-
 
 ## ⚡ Tech Stack
 
