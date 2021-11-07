@@ -9,12 +9,12 @@ Gosto de tudo relacionado a tecnologia, sonho em seguir carreira nessa área que
 Aqui estão algumas coisas que aprendi ao longo da minha jornada de aprendizado.
 
 
-* 🗣 JavasCript | PHP | Node | SQL | 
+* 🗣 Javascript | Node | SQL | 
 * 🖇️ React | React Native | Vue
-* 🛢️ MySQL | SQLite | Postgresql
+* 🛢️ MySQL | SQLite | Postgresql | Firebase
 * :octocat: Git | Github
 * 🌐 HTML | CSS
-* ☁ AWS | Digital Ocean | Firebase
+* ☁ AWS | Digital Ocean 
 
 ## 📫 Entre em contato comigo!
 - LinkedIn - [Alisson Oliveira](https://in.linkedin.com/in/alisson-oliveira-a8b66a175)
