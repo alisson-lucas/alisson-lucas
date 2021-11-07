@@ -9,7 +9,7 @@ Gosto de tudo relacionado a tecnologia, sonho em seguir carreira nessa área que
 Aqui estão algumas coisas que aprendi ao longo da minha jornada de aprendizado.
 
 
-* 🗣 Javascript | Typescript | Node | SQL | 
+* 🗣 Javascript | Typescript | Node | SQL 
 * 🖇️ React | React Native | Vue | Gulpjs
 * 🛢️ MySQL | SQLite | Postgresql | Firebase
 * :octocat: Git | Github
