@@ -14,7 +14,7 @@ Aqui estão algumas coisas que aprendi ao longo da minha jornada de aprendizado.
 * 🛢️ MySQL | SQLite | Postgresql
 * :octocat: Git | Github
 * 🌐 HTML | CSS
-* ☁ Firebase
+* ☁ AWS | Digital Ocean | Firebase
 
 ## 📫 Entre em contato comigo!
 - LinkedIn - [Alisson Oliveira](https://in.linkedin.com/in/alisson-oliveira-a8b66a175)
