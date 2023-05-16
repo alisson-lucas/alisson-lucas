@@ -10,10 +10,10 @@ Aqui estão algumas coisas que aprendi ao longo da minha jornada de aprendizado.
 
 
 * 🗣 Javascript | Typescript | Node | SQL 
-* 🖇️ React | React Native | Vue | Gulpjs
-* 🛢️ MySQL | SQLite | Postgresql | Firebase
+* 🖇️ React | NextJS | React Native | Vue | Gulpjs
+* 🛢️ MySQL | SQLite | Postgresql | Firebase | MongoDb | Docker
 * :octocat: Git | Github
-* 🌐 HTML | CSS
+* 🌐 HTML | CSS | Sass | Less | TailwindCss | ChakraUi
 * ☁ AWS | Digital Ocean 
 
 ## 📫 Entre em contato comigo!
